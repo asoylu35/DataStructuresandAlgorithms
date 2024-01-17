@@ -1,1 +1,1 @@
-![markdown](image/mergesort.png)
+(image/mergesort.png)
