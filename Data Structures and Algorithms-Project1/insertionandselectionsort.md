@@ -9,7 +9,7 @@
 *Son olarak altıncı eleman 6<16 olduğu için direkt 16nın yerine gelir.Son sıralama 2,6,16,18,22,27dir.
 [2,6,16,18,22,27]
 Big-O gösterimini yazınız.
-*Big-O=O(n^2)
+'Big-O=O(n^2)'
 ### Time Complexity: Dizi sıralandıktan sonra 18 sayısı aşağıdaki case'lerden hangisinin kapsamına girer? Yazınız
 Average case: Aradığımız sayının ortada olması
 Worst case: Aradığımız sayının sonda olması
