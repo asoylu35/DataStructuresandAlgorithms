@@ -9,12 +9,12 @@
 *Son olarak altıncı eleman 6<16 olduğu için direkt 16nın yerine gelir.Son sıralama 2,6,16,18,22,27dir.
 [2,6,16,18,22,27]
 Big-O gösterimini yazınız.
-`*Big-O=O(n^2)`
+`Big-O=O(n^2)`
 ### Time Complexity: Dizi sıralandıktan sonra 18 sayısı aşağıdaki case'lerden hangisinin kapsamına girer? Yazınız
-Average case: Aradığımız sayının ortada olması
-Worst case: Aradığımız sayının sonda olması
-Best case: Aradığımız sayının dizinin en başında olması.
-18 sayısı tam ortadaki sayı olduğu için average case kapsamına girer.
+#### Average case: Aradığımız sayının ortada olması
+#### Worst case: Aradığımız sayının sonda olması
+#### Best case: Aradığımız sayının dizinin en başında olması.
+#### 18 sayısı tam ortadaki sayı olduğu için average case kapsamına girer.
 ## Selection Sort
 [7,3,5,8,2,9,4,15,6] dizisinin Selection Sort'a göre ilk 4 adımını yazınız.
 İlk olarak en küçük elemanı belirliyoruz.Bu eleman 2
